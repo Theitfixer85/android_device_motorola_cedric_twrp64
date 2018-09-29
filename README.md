@@ -1,0 +1,2 @@
+# android_device_motorola_cedric_twrp64
+64bit twrp
